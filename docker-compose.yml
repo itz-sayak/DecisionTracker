@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: decision-tracker-backend
+    restart: always
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+      - backend_data:/app/uploads
+    env_file:
+      - ./backend/.env
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+
+  frontend:
+    build: ./frontend
+    container_name: decision-tracker-frontend
+    restart: always
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+volumes:
+  backend_data: 
