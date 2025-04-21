@@ -2,7 +2,7 @@
 
 Decision Tracker is a modular AI application that analyzes meeting audio recordings to extract key decision insights. The application uses LLaMA 70B via the Groq API for analysis and provides a stylish iOS-inspired user interface.
 
-![Decision Tracker App](Screenshot_2025-04-22_031818.png)
+![Decision Tracker App](pic.png)
 
 ## Quick Start (Docker)
 
