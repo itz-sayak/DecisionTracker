@@ -179,11 +179,9 @@ The system prompt for LLaMA 70B is designed to extract specific decision-related
 
 ## Future Enhancements
 
-- Vector DB integration (FAISS or ChromaDB) for long-term memory
 - Multi-user support with authentication
 - Recurring task detection and reminder system
 - Integration with calendar applications
-- Support for additional audio formats
 
 ## License
 
