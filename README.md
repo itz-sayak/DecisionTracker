@@ -71,7 +71,6 @@ ffmpeg -version
 
 ## Architecture
 
-![Architecture Diagram](docs/architecture.png)
 
 ### Components
 
