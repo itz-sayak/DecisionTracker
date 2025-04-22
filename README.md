@@ -16,7 +16,7 @@ Decision Tracker is a modular AI application that analyzes meeting audio recordi
    **Method 1: Using environment variable**
    ```powershell
    # PowerShell
-   $env:GROQ_API_KEY="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"
+   $env:GROQ_API_KEY="your_groq_api"
    docker compose up -d
    ```
 
