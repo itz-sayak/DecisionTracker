@@ -1,0 +1,36 @@
+2025-04-24 03:17:33,801 - meet_join - INFO - Starting Google Meet joining script. Logs will be saved to logs\meet_join_20250424_031733.log
+2025-04-24 03:17:33,805 - meet_join - INFO - Attempting to join Google Meet: https://meet.google.com/aaf-rxtg-raj
+2025-04-24 03:17:33,806 - meet_join - WARNING - No profile path provided, using default Chrome settings
+2025-04-24 03:17:38,533 - meet_join - INFO - Chrome browser started successfully
+2025-04-24 03:17:47,270 - meet_join - INFO - Navigated to: https://meet.google.com/aaf-rxtg-raj
+2025-04-24 03:17:47,500 - meet_join - INFO - Page title: Meet
+2025-04-24 03:17:59,575 - meet_join - ERROR - WebDriver exception: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+	GetHandleVerifier [0x00DED363+60275]
+	GetHandleVerifier [0x00DED3A4+60340]
+	(No symbol) [0x00C206F3]
+	(No symbol) [0x00C0FF20]
+	(No symbol) [0x00C2DDA2]
+	(No symbol) [0x00C93D2F]
+	(No symbol) [0x00CADFE9]
+	(No symbol) [0x00C8CE86]
+	(No symbol) [0x00C5C623]
+	(No symbol) [0x00C5D474]
+	GetHandleVerifier [0x01038FE3+2467827]
+	GetHandleVerifier [0x010345E6+2448886]
+	GetHandleVerifier [0x0104F80C+2560028]
+	GetHandleVerifier [0x00E03DF5+153093]
+	GetHandleVerifier [0x00E0A3BD+179149]
+	GetHandleVerifier [0x00DF4BB8+91080]
+	GetHandleVerifier [0x00DF4D60+91504]
+	GetHandleVerifier [0x00DDFA10+4640]
+	BaseThreadInitThunk [0x770E5D49+25]
+	RtlInitializeExceptionChain [0x77C4CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x77C4CE91+561]
+
+2025-04-24 03:18:01,926 - meet_join - INFO - Retrying (1/3)...
+2025-04-24 03:18:07,661 - meet_join - INFO - Chrome browser started successfully
+2025-04-24 03:18:16,530 - meet_join - INFO - Navigated to: https://meet.google.com/aaf-rxtg-raj
+2025-04-24 03:18:16,702 - meet_join - INFO - Page title: Meet

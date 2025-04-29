@@ -1,0 +1,60 @@
+{
+  "executiveSummary": "The meeting discussed a drop in engagement on Instagram content, specifically with Ferrausal posts, and decided to shift focus to short-form video content, reallocating budget from print to support the change.",
+  "decisionPoints": [
+    {
+      "decision": "Shift focus from Ferrausal posts to short-form video content",
+      "timeline": "Next week (revised plan)",
+      "rationale": "Ferrausal posts are seeing less interaction, while Reels are still performing well"
+    },
+    {
+      "decision": "Reallocate budget from print to support video content",
+      "timeline": "Next week (revised plan)",
+      "rationale": "Need to boost video content to improve engagement"
+    },
+    {
+      "decision": "Pause some evergreen pieces to lighten the load on creative",
+      "timeline": "Next week (check-in with creative team)",
+      "rationale": "Creative might be overloaded with current workload"
+    },
+    {
+      "decision": "Revisit influencer call-up for launch after reviewing initial content performance",
+      "timeline": "Next week",
+      "rationale": "Need to assess content performance before deciding on influencer call-up"
+    }
+  ],
+  "risksConcernsRaised": [
+    {
+      "description": "Last-minute hold up with product launch",
+      "severity": "High",
+      "mitigation": "Check-in with assuming we go early next week"
+    },
+    {
+      "description": "Creative overload",
+      "severity": "Medium",
+      "mitigation": "Pause some evergreen pieces to lighten the load"
+    }
+  ],
+  "actionItems": [
+    {
+      "task": "Update calendar and send revised plan",
+      "assignee": "Meeting organizer",
+      "dueDate": "Friday"
+    },
+    {
+      "task": "Check-in with assuming we go",
+      "assignee": "Unspecified",
+      "dueDate": "Early next week"
+    },
+    {
+      "task": "Check-in with creative team",
+      "assignee": "Unspecified",
+      "dueDate": "Next week"
+    }
+  ],
+  "unresolvedQuestions": [
+    {
+      "question": "Firm date for product launch",
+      "context": "Tentatively June, pending assuming we go's review"
+    }
+  ]
+}

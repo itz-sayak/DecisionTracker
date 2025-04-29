@@ -1,0 +1,85 @@
+{
+  "task_id": "meet_recording_20250429_073604",
+  "timestamp": "2025-04-29T07:44:43.841426",
+  "filename": "meet_recording_20250429_073604.mp3",
+  "insights": {
+    "executiveSummary": "The meeting focused on discussing the marketing strategy for the new product launch, with a key decision to allocate an additional $10,000 to the social media campaign. The team also addressed concerns about the product's pricing and potential competition.",
+    "decisionPoints": [
+      {
+        "decision": "Allocate an additional $10,000 to the social media campaign",
+        "timeline": "By the end of the week",
+        "rationale": "To increase brand awareness and reach a wider audience"
+      },
+      {
+        "decision": "Conduct market research to determine optimal pricing",
+        "timeline": "Within the next two weeks",
+        "rationale": "To ensure the product is competitively priced"
+      }
+    ],
+    "risksConcernsRaised": [
+      {
+        "description": "Potential competition from established brands",
+        "severity": "High",
+        "mitigation": "Conduct market research to identify key differentiators"
+      },
+      {
+        "description": "Product pricing may be too high for target audience",
+        "severity": "Medium",
+        "mitigation": "Gather feedback from focus groups and adjust pricing accordingly"
+      }
+    ],
+    "actionItems": [
+      {
+        "task": "Finalize social media campaign budget",
+        "assignee": "Marketing Team",
+        "dueDate": "By the end of the week"
+      },
+      {
+        "task": "Conduct market research on pricing",
+        "assignee": "Research Team",
+        "dueDate": "Within the next two weeks"
+      },
+      {
+        "task": "Gather feedback from focus groups",
+        "assignee": "Product Team",
+        "dueDate": "Within the next three weeks"
+      }
+    ],
+    "unresolvedQuestions": [
+      {
+        "question": "What is the projected ROI of the social media campaign?",
+        "context": "Discussion on campaign budget"
+      },
+      {
+        "question": "How will we measure the success of the product launch?",
+        "context": "Discussion on marketing strategy"
+      }
+    ]
+  },
+  "pipeline_status": {
+    "RECORDING": {
+      "status": "completed",
+      "start_time": 1745892855.1341166,
+      "end_time": 1745892855.1341166,
+      "error": null
+    },
+    "TRANSCRIPTION": {
+      "status": "completed",
+      "start_time": 1745892862.5274892,
+      "end_time": 1745892882.2137623,
+      "error": null
+    },
+    "ANALYSIS": {
+      "status": "completed",
+      "start_time": 1745892882.214668,
+      "end_time": 1745892883.8372736,
+      "error": null
+    },
+    "SAVE": {
+      "status": "started",
+      "start_time": 1745892883.8394759,
+      "end_time": null,
+      "error": null
+    }
+  }
+}
